@@ -31,6 +31,9 @@ NOTES:
 jelas masih ada error di bagian pwsnya, sebelumnya sudah mengikuti arahan dari masalah yang sama saya ngalamin di forum diskusi, tapi tetap aja hasilnya masih sama error di bagian pws ataupun tdk ada tampilan di link pwsnya. Karena itu mohon maaf ketidaksempurnaan dalam pengerjaan. Sekian Terima kasih
 
 
+
+
+
 B.Buatlah bagan yang berisi request client ke web aplikasi berbasis Django beserta responnya dan jelaskan pada bagan tersebut kaitan antara urls.py, views.py, models.py, dan berkas html.
 https://drive.google.com/drive/folders/1nHzGXDmBRMv9fa7lq8wwt6WO57d388fC?usp=sharing
 
@@ -57,6 +60,8 @@ Berdasarkan data yang diproses dalam views.py dan mungkin menggunakan models.py,
 
 
 
+
+
 C. Jelaskan fungsi git dalam pengembangan perangkat lunak!
 
 -Git memungkinkan user untuk menyimpan "snapshot" dari proyek mereka pada interval waktu tertentu. Hal ini memudahkan untuk mengembalikan perubahan atau membandingkan versi kode sebelumnya.
@@ -65,11 +70,17 @@ C. Jelaskan fungsi git dalam pengembangan perangkat lunak!
 -Git mendukung pembuatan cabang yang memungkinkan eksperimen atau pengembangan fitur tanpa mempengaruhi basis kode utama.
 
 
+
+
+
 D. Menurut Anda, dari semua framework yang ada, mengapa framework Django dijadikan permulaan pembelajaran pengembangan perangkat lunak?
 
 Dokumentasi yang Lengkap dan Komunitas yang Besar, dengan hal itu memudahkan pemula untuk memulai dan mendapatkan dukungan.
 Batteries Included, Django menyediakan banyak fitur standar yang dibutuhkan untuk aplikasi web modern, seperti autentikasi, template engine, dan ORM, yang mempercepat proses pembangunan aplikasi.
 Konvensi Ketimbang Konfigurasi, Django mengikuti pola "konvensi ketimbang konfigurasi" yang mengurangi jumlah keputusan yang harus dibuat pengembang, mempercepat pembelajaran dan pengembangan.
+
+
+
 
 
 E.Mengapa model pada Django disebut sebagai ORM?
