@@ -17,13 +17,9 @@ Buatlah bagan yang berisi request client ke web aplikasi berbasis Django beserta
 
 4. Menurut Anda, dari semua framework yang ada, mengapa framework Django dijadikan permulaan pembelajaran pengembangan perangkat lunak?
 
-Manajemen Versi: Git memungkinkan pengembang menyimpan "snapshot" dari proyek mereka pada interval waktu tertentu. Hal ini memudahkan untuk mengembalikan perubahan atau membandingkan versi kode sebelumnya.
-
-Kolaborasi: Git memudahkan kolaborasi antar pengembang dalam proyek yang sama. Dengan Git, beberapa pengembang dapat bekerja pada fitur yang berbeda tanpa mengganggu pekerjaan orang lain.
-
-Pencatatan: Setiap commit di Git menyimpan informasi tentang siapa yang membuat perubahan dan apa saja perubahannya, memudahkan audit dan pelacakan perubahan.
-
-Branching dan Merging: Git mendukung pembuatan cabang yang memungkinkan eksperimen atau pengembangan fitur tanpa mempengaruhi basis kode utama.
+Dokumentasi yang Lengkap dan Komunitas yang Besar, dengan hal itu memudahkan pemula untuk memulai dan mendapatkan dukungan.
+Batteries Included, Django menyediakan banyak fitur standar yang dibutuhkan untuk aplikasi web modern, seperti autentikasi, template engine, dan ORM, yang mempercepat proses pembangunan aplikasi.
+Konvensi Ketimbang Konfigurasi, Django mengikuti pola "konvensi ketimbang konfigurasi" yang mengurangi jumlah keputusan yang harus dibuat pengembang, mempercepat pembelajaran dan pengembangan.
 
 
 5.Mengapa model pada Django disebut sebagai ORM?
