@@ -65,8 +65,11 @@ Berdasarkan data yang diproses dalam views.py dan mungkin menggunakan models.py,
 C. Jelaskan fungsi git dalam pengembangan perangkat lunak!
 
 -Git memungkinkan user untuk menyimpan "snapshot" dari proyek mereka pada interval waktu tertentu. Hal ini memudahkan untuk mengembalikan perubahan atau membandingkan versi kode sebelumnya.
+
 -Git memudahkan kolaborasi antar pengembang dalam proyek yang sama. Dengan Git, beberapa pengembang dapat bekerja pada fitur yang berbeda tanpa mengganggu pekerjaan orang lain.
+
 -Setiap commit di Git menyimpan informasi tentang siapa yang membuat perubahan dan apa saja perubahannya, memudahkan audit dan pelacakan perubahan.
+
 -Git mendukung pembuatan cabang yang memungkinkan eksperimen atau pengembangan fitur tanpa mempengaruhi basis kode utama.
 
 
